@@ -1,1 +1,23 @@
-This is my first file that I created for my online internship
+1- To clone vc repo:
+git clone https://github.com/DataGlacier/VC.git
+
+2- To create new branch: 
+git chechout -b mynewbranch
+
+3- To checkout newly created branch:
+git checkout mynewbranch
+
+4- To run the add.py and provide my name and fav sport as input:
+python3 add.py
+
+5- To add something to repo :
+git add
+
+6- To commit something to repo:
+git commit -m "maad branch"
+
+7- To push something to repo:
+git push -u mynewbranch
+
+
+
